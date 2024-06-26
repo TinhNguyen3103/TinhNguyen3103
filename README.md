@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @TinhNguyen3103
+- 👋 I’m Tinh Nguyen
 - 👀 I’m interested in machine learning and data/software engineering
 - 🌱 I’m currently working as a research student at the Computer Communications Lab., the University of Aizu
-- 📫 How to reach me? send me an email: tinh.nv310300@gmail.com
+- 📫 How to reach me? Send me an email: tinh.nv310300@gmail.com
 
 <!---
 - 🔭 I’m currently working on ...
